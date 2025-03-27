@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listings>
+  <title>Test hotel feed</title>
+  <listing>
+    <image>
+      <url>http://www.facebook.com/a0.png</url>
+      <tag>Gym</tag>
+    </image>
+    <home_listing_id>K456653443_0</home_listing_id>
+    <availability>available_soon</availability>
+    <url>https://www.facebook.com/</url>
+    <name>A text field</name>
+    <price>10,00 USD</price>
+    <address format="simple">
+      <component name="addr1">675 El Camino Real</component>
+      <component name="addr2">Apt 1</component>
+      <component name="addr3">Downstairs</component>
+      <component name="unit_number">1223</component>
+      <component name="city">Palo Alto</component>
+      <component name="city_id">12345</component>
+      <component name="region">California</component>
+      <component name="province"/>
+      <component name="postal_code">12345</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>37.44</latitude>
+    <longitude>-122.163</longitude>
+    <neighborhood>Palo Alto</neighborhood>
+    <custom_number_4>33333333</custom_number_4>
+    <product_tags>some_string</product_tags>
+    <product_tags>other</product_tags>
+  </listing>
+</listings>
